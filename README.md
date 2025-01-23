@@ -1,4 +1,4 @@
-# Proyecto: Lista de Amigos y Sorteo
+# Proyecto: Amigo secreto
 
 Este proyecto es una sencilla aplicación web que permite agregar nombres a una lista y realizar un sorteo aleatorio para elegir uno de ellos.
 
